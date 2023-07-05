@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.div3{
+    background-color: rgb(104, 8, 223);
+    font-size: 25px;
+}
+
+
+.img1{
+    border: 5px solid;
+    background-color: aqua;
+    text-align: center;
+}
+
+.img1 img{
+    width: 100%;
+    height: 780px;
+}
